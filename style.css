@@ -8,14 +8,14 @@ body {
 	
 }
 
-.wrapper {
+.header1 {
 	text-align: center;
 }
 
 header {
 	height: 88px;
 	width: 100%;
-	line-height: 50px;
+	line-height: 90px;
 	background-color: #ebebeb;
 	margin:10px 0px 20px 0px;
 }
@@ -23,12 +23,12 @@ header {
 nav {
 	height: 88px;
 	width: 100%;
-	line-height: 50px;
+	line-height: 90px;
 	background-color: #ebebeb;
 	margin-bottom: 20px;
 }
 
-.container {
+.section1 {
 	margin:10px 0px, 10px, 0px;
 	position: relative;
 }
@@ -46,6 +46,7 @@ section {
 
 article {
 	height: 200px;
+	line-height: 30px;
 	background-color:#777;
 	color: #ebebeb;
 	float:middle;
@@ -58,6 +59,7 @@ article {
 
 article h1 {
 	height:49px;
+	line-height: 49px;
 	background-color: #ebebeb;
 	color: #777;
 	margin: 50px 20px 10px 20px;
@@ -65,6 +67,7 @@ article h1 {
 
 article p {
 	height: 49px;
+	line-height: 49px;
 	background-color: #ebebeb;
 	color: #777;
 	margin: 10px 20px 10px 20px;
@@ -84,7 +87,7 @@ aside {
 footer {
 	height: 87px;
 	width: 100%;
-	line-height: 40px;
+	line-height: 90px;
 	position:relative;
 	bottom:0;
 	left:0;
